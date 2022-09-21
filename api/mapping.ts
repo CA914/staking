@@ -104,6 +104,7 @@ export const stakePoolMetadatas: StakePoolMetadata[] = [
   // },
   {
     name: 'bluebrain',
+    hostname:'stake.chewyaliens.com',
     displayName: 'BlueBrains',
     nameInHeader: true,
     stakePoolAddress: new PublicKey(
