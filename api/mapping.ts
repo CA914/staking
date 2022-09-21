@@ -103,7 +103,7 @@ export const stakePoolMetadatas: StakePoolMetadata[] = [
   //   },
   // },
   {
-    name: 'chewyaliens',
+    name: 'bluebrain',
     displayName: 'BlueBrains',
     nameInHeader: true,
     stakePoolAddress: new PublicKey(
